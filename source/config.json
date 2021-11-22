@@ -1,0 +1,25 @@
+{
+    "time_segment": 60,
+    "time_threshold": 6000,
+    "event_num": 5,
+    
+    "max_len": 300,
+    "left_threshold": 200,
+    "right_threshold": 200,
+
+    "segment": true,
+    "raw_test_dataset": "/home/syy/project/public_filter/battle/battle_all_ab_identity",
+    "raw_train_dataset": "/home/chu/disk_extent/liwenbin/public_filter/battle_identity/train",
+
+    "test_dataset": "/home/syy/project/battle_all_sample_2w_process/test",
+    "train_dataset": "/home/syy/project/battle_all_sample_2w_process/train",
+    "maml_dataset": "/home/syy/project/public_filter/maml_dataset/max_dataset/maml/train",
+    "maml_support": "/home/syy/project/public_filter/maml_dataset/max_dataset/maml/test/support(10%)",
+    "maml_query": "/home/syy/project/public_filter/maml_dataset/max_dataset/maml/test/query_mini",
+
+    "label_filepath": "/home/syy/project/battle_all_sample_2w_process/battle_lable/mark.csv",
+    "result_file": "/home/syy/project/maml/traj_supervised_maml_event/output/result",
+    "length_threshold": 80,
+    "angle_embed_num": 360,
+    "disp_embed_num": 10000
+}
