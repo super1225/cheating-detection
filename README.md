@@ -8,4 +8,4 @@ Results
 ![Result](https://github.com/super1225/cheating-detection/blob/32d71319a34885a9e37d9b75a69a5d809805c3c5/result.png)
 
 Dataset  
-Due to the privacy of dataset, we have published ten samples for analysis in !(https://github.com/super1225/cheating-detection/tree/main/dataset).
+Due to the privacy of dataset, we have published ten samples for analysis in ![](https://github.com/super1225/cheating-detection/tree/main/dataset).
